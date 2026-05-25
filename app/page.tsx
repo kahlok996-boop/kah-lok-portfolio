@@ -41,7 +41,7 @@ export default function Home() {
   const [showPopup, setShowPopup] = useState(false);
 
   const auditFormUrl =
-    "https://kahlokstudio.com";
+    "https://kahlokstudio.comhttps://kahlokstudio.com";
 
   useEffect(() => {
     const timer = setTimeout(() => {
